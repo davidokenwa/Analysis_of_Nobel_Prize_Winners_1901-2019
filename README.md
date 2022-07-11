@@ -7,7 +7,7 @@
 | **The Nobel Prize Medal**                                                                                          |
 
 In May 2022, I joined the Onyx, Novypro and Astrato data challenge. We were asked to visualize the Nobel Prize winners 
-since 1901. This was very interesting dataset to work on as I learned so much about the Nobel Prize, learnt different 
+since 1901. This was a very interesting dataset to work on as I learned so much about the Nobel Prize, learnt different 
 data cleaning techniques in Excel, practiced different data exploration methods  and completed the visualization within 
 a day! This is my record time for building a dashboard for a data challenge.
 
@@ -32,7 +32,7 @@ Nobel Laureates. In fact, I gave my dashboard the sub-theme, “Let
 the Laureates Inspire You”. I wanted to explore what we can learn 
 from the laureates in terms of collaboration, women's representation,
 breaking invisible limitations, starting early, blooming later and
-demonstrating grit and tenacity in the face of difficulty. 
+demonstrating grit and tenacity in the face of adversity. 
 The laureate’s data was the perfect one to demonstrate all these 
 and more!
 
