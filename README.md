@@ -1,6 +1,6 @@
 # **Analysis of Nobel Prize Winners Since 1901**
 
-> Everyone knows the Nobel Prize is one of the most prestigious awards anyone can receive. But do you know how it started? 
+> Everyone knows the Nobel Prize is one of the most prestigious awards anyone can receive. But do you know how it started? Read the article on Medium [here](https://davidokenwa.medium.com/analysis-of-nobel-prize-winners-since-1901-6838e5b2b6fd) 
 
 | ![Nobel medal](https://github.com/davidokenwa/Analysis_of_Nobel_Prize_Winners_1901-2019/blob/main/nobel_medal.png) | 
 |:------------------------------------------------------------------------------------------------------------------:| 
@@ -164,6 +164,6 @@ The insights were stated during the analysis. Here is the highlight:
 
 Thank you for reading up to this point! Here are some relevant links:
 
-* [Medium article](https://davidokenwa.medium.com/thoughts-behind-beautiful-dashboards-9fb8b24d9f6d)
+* [Medium article](https://davidokenwa.medium.com/analysis-of-nobel-prize-winners-since-1901-6838e5b2b6fd)
 * [LinkedIn Post](https://www.linkedin.com/posts/david-okenwa_david-okenwa-onyx-nobel-prize-data-challenge-activity-6936211331779805184-7q0O?utm_source=linkedin_share&utm_medium=member_desktop_web)
 * [Dataset](https://www.kaggle.com/datasets/bahramjannesarr/nobel-prize-from-1901-till-2020)
